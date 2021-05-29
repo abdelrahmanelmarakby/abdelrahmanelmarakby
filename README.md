@@ -1,7 +1,7 @@
 ### <div align="center">Hi there I am Abdelrahman Elmarakby - Flutter Developer  👋</div>  
   
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=abdelrahmanelmarakby&badges=4&show-avatar=true&style=--header-bg-color:%23ff96ad;--border-radius:12px;--badge-bg-color:%230a81ab"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=abdelrahmanelmarakby&badges=4&show-avatar=true&style=--header-bg-color:%230a1931;--border-radius:12px;--badge-bg-color:%230a81ab"
 />
 <br/>  
 
