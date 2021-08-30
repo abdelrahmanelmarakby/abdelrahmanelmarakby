@@ -4,9 +4,7 @@
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=abdelrahmanelmarakby&badges=4&show-avatar=true&style=--header-bg-color:%230a1931;--border-radius:12px;--badge-bg-color:%230a81ab"
 />
 <br/>  
-
-<codersrank-activity username="abdelrahmanelmarakby" labels legend tooltip></codersrank-activity>
-
+<img src"https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=abdelrahmanelmarakby">
 <br/>
 ## Connect with me  
 <div align="center">
