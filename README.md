@@ -5,6 +5,8 @@
 />
 <br/>  
 
+<codersrank-activity username="YOUR_USERNAME" labels legend tooltip></codersrank-activity>
+<br/>
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/abdelrahmanelmarakby" target="_blank">
