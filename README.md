@@ -1,5 +1,14 @@
-### <div align="center">Hi there I am Abdelrahman Elmarakby - Flutter Developer  👋</div>  
-  
+### <div align="center">Hi there I am Abdelrahman Elmarakby - Flutter Developer  👋</div>
+
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=abdelrahmanelmarakby&&style=flat-square" align="center" />
+</div>  
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?abdelrahmanelmarakby=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+  <br/>
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=abdelrahmanelmarakby&badges=4&show-avatar=true&style=--header-bg-color:%230a1931;--border-radius:12px;--badge-bg-color:%230a81ab"
 />
@@ -97,10 +106,6 @@
   
 
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=abdelrahmanelmarakby&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
