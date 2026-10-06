@@ -38,4 +38,4 @@ Also shipped: Nourish (food delivery + driver apps), 48SA, Dvina Store, ezdownsi
 **GDSC Sinai University — Lead** (trained 2000+ students, events with engineers from Dell & Norton Security) · GDSC Al-Azhar core team (1000+ students) · **IEEE Al-Azhar — Head of Flutter Committee** (Flutter bootcamp).
 
 ### Let's talk
-✉️ [AbdelrahmanMarakby@gmail.com](mailto:AbdelrahmanMarakby@gmail.com) · 🌍 Cairo, Egypt (UTC+2, overlap with EU/Gulf/US-East) · 📱 +20 101 970 6842
+✉️ [AbdelrahmanMarakby@gmail.com](mailto:AbdelrahmanMarakby@gmail.com) · 🌐 [abdelrahmanelmarakby.github.io](https://abdelrahmanelmarakby.github.io/) · 🌍 Cairo, Egypt (UTC+2, overlap with EU/Gulf/US-East) · 📱 +20 101 970 6842
